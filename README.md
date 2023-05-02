@@ -34,3 +34,7 @@ Filter cat posts by hashtag
 
 Credits:
 This project was created by Lighonray
+
+SECTIONS OF PROJECT:
+Phase 1 should include basic structure of the project, data entities, add new post page, validations = validated
+Phase 2 should include the main page, comments, hashtags, search, data filtering = validated
