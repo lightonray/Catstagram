@@ -1,5 +1,4 @@
-Catstagram 
-Catstagram Wall is a web application built using .NET 5.0 and MVC. It is a platform where users can share their cat pictures. The application also features a hashtag filter that allows users to view all posts that contain a specific hashtag.
+Catstagram is a web application built using .NET 5.0 and MVC. It is a platform where users can share their cat pictures. The application also features a hashtag filter that allows users to view all posts that contain a specific hashtag.
 
 Features
 
